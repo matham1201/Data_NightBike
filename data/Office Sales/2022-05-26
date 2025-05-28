@@ -1,0 +1,23 @@
+transaction_id	time	product	quantity	unit_price
+27391518	18:14	raincoat	4.0	1.0
+12659511	18:15	chips	2.0	1.5
+12659511	18:15	raincoat	5.0	1.0
+27886571	18:18	raincoat	5.0	1.0
+97471122	18:20	ice tea	2.0	2.5
+97471122	18:20	raincoat	6.0	1.0
+22893099	18:22	small water	1.0	1.0
+22893099	18:22	raincoat	5.0	1.0
+86444000	18:28	raincoat	6.0	1.0
+66174656	18:39	small water	1.0	1.0
+66174656	18:39	raincoat	2.0	1.0
+66174656	23:03	raincoat returns	1.0	-1.0
+66174656	23:03	key chain	2.0	0.8
+22893099	23:04	large water	2.0	2.0
+22893099	23:04	key chain	13.0	0.8
+27886571	23:07	small water	2.0	1.0
+27886571	23:07	large water	1.0	2.0
+97471122	23:07	key chain	12.0	0.8
+97471122	23:07	t-shirt	5.0	12.0
+12659511	23:09	raincoat returns	2.0	-1.0
+12659511	23:09	large water	2.0	2.0
+12659511	23:09	t-shirt	2.0	12.0

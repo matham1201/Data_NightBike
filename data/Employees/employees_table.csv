@@ -1,0 +1,24 @@
+employee_id;employee_first_name;employee_last_name;gender;date_of_birth;job;joining_date;day_tour_trained;night_tour_trained;versailles_trained;seniority (has already worked here)
+34-0035381;Tom;Burden;m;24/06/1987;Office Manager;24/05/2017;y;y;y;y
+50-2207707;Alice;Richards;f;15/05/1981;Office Manager;17/06/2017;y;y;y;y
+12-3003928;Shaun;McLaughlin;m;01/02/1990;Senior Guide;22/07/2019;y;y;y;y
+13-0214740;Tim;Chang;m;24/01/1995;Senior Guide;25/09/2019;y;y;y;y
+82-4746874;Eric;Winterbourne;m;01/05/1996;Senior Guide;04/02/2020;y;y;y;y
+22-0191141;Helen;Smith;f;13/12/1994;Senior Guide;12/02/2020;y;y;y;y
+53-8952948;Tarik;Patel;m;08/01/2000;Guide;01/04/2020;y;y;y;y
+75-0269501;Luke;Thomas;m;11/07/1999;Guide;30/08/2020;y;y;y;y
+61-9022510;Annie;Spayne;f;30/07/1995;Guide;02/10/2020;y;y;y;n
+11-7101553;Michelle;Turner;f;17/02/1987;Guide;21/10/2021;y;y;y;n
+60-3815509;Emily;Ngo;f;15/08/1997;Guide;29/11/2021;y;y;y;n
+64-9856770;Laura;Tobin;f;30/01/1997;Guide;05/01/2022;y;y;n;n
+55-1433827;Ben;Jonsen;m;02/12/1981;Guide;18/02/2022;y;y;n;n
+11-9351390;Peter;Comerford;m;06/02/2002;Guide;01/04/2021;y;y;n;n
+60-8608095;Katherine;Chiswell;f;08/07/1996;Guide;13/05/2022;y;y;n;n
+52-4576356;Nolan;Pendergast;m;22/11/1994;Guide;12/05/2022;y;y;n;n
+29-9644211;Andrew;Nguyen;m;07/11/1990;Guide;16/05/2022;y;y;n;n
+39-6865023;Sally;Kittman;f;20/11/1990;Guide;16/05/2022;y;y;n;n
+51-5531588;Frances;Segrave;f;17/05/1989;Guide;31/05/2022;y;y;n;n
+58-1868935;Nicola;Georgi;m;08/05/1990;Guide;31/05/2022;y;y;n;n
+26-3559661;Aline;Robert;f;17/09/1991;Guide;01/06/2022;y;y;n;n
+21-6550197;Liliane;Dubourblanc;f;30/11/1999;Guide;01/06/2022;y;y;n;n
+01-3339282;Henry;Cumberdale;m;18/09/1991;Guide;01/06/2022;y;y;n;n

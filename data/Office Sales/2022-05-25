@@ -1,0 +1,13 @@
+transaction_id	time	product	quantity	unit_price
+45253092	17:59	small water	1.0	1.0
+45253092	17:59	raincoat	3.0	1.0
+81770853	18:05	small water	1.0	1.0
+32935826	18:05	raincoat	2.0	1.0
+81770853	18:05	raincoat	4.0	1.0
+79917779	18:24	raincoat	5.0	1.0
+48790298	18:35	raincoat	3.0	1.0
+42006569	18:37	small water	1.0	1.0
+42006569	18:37	raincoat	2.0	1.0
+48916797	18:41	raincoat	3.0	1.0
+45253092	23:05	raincoat returns	3.0	-1.0
+42006569	23:05	raincoat returns	2.0	-1.0

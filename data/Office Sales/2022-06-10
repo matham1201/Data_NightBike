@@ -1,0 +1,59 @@
+transaction_id	time	product	quantity	unit_price
+17592189	17:59	small water	2.0	1.0
+17592189	17:59	large water	1.0	2.0
+48843030	18:03	raincoat	2.0	1.0
+13423561	18:07	small water	2.0	1.0
+13423561	18:07	large water	2.0	2.0
+50862244	18:10	small water	3.0	1.0
+46170191	18:12	small water	1.0	1.0
+37604149	18:12	small water	2.0	1.0
+15059034	18:12	large water	2.0	2.0
+37604149	18:12	large water	2.0	2.0
+15059034	18:12	ice tea	1.0	2.5
+15059034	18:12	chips	3.0	1.5
+15059034	18:12	energy bar	2.0	2.2
+21223210	18:15	small water	3.0	1.0
+50514079	18:16	small water	3.0	1.0
+80924722	18:16	large water	5.0	2.0
+13508593	18:18	small water	3.0	1.0
+13508593	18:18	ice tea	2.0	2.5
+13508593	18:18	chips	4.0	1.5
+99763562	18:19	small water	4.0	1.0
+26082067	18:19	small water	2.0	1.0
+26082067	18:19	ice tea	1.0	2.5
+26082067	18:19	chips	3.0	1.5
+26082067	18:19	energy bar	3.0	2.2
+44434292	18:19	raincoat	3.0	1.0
+17176055	18:20	small water	2.0	1.0
+17176055	18:20	large water	2.0	2.0
+68443244	18:21	large water	1.0	2.0
+36189107	18:22	small water	4.0	1.0
+22238298	18:22	small water	2.0	1.0
+46270878	18:22	large water	4.0	2.0
+22238298	18:22	large water	2.0	2.0
+46270878	18:22	chips	4.0	1.5
+68983875	18:23	small water	4.0	1.0
+36929261	18:23	small water	3.0	1.0
+68983875	18:23	large water	1.0	2.0
+53302253	18:26	small water	2.0	1.0
+26592781	18:26	large water	1.0	2.0
+91550716	18:27	large water	2.0	2.0
+10642394	18:29	small water	2.0	1.0
+10642394	18:29	large water	1.0	2.0
+10642394	18:29	raincoat	4.0	1.0
+15483140	18:30	small water	2.0	1.0
+15483140	18:30	large water	1.0	2.0
+39235783	18:31	small water	2.0	1.0
+15109001	18:32	small water	1.0	1.0
+15109001	18:32	key chain	1.0	0.8
+15109001	18:32	t-shirt	1.0	12.0
+73180045	18:34	small water	1.0	1.0
+73180045	18:34	key chain	1.0	0.8
+73180045	18:34	t-shirt	1.0	12.0
+25265735	18:40	large water	1.0	2.0
+22238298	23:19	key chain	13.0	0.8
+22238298	23:19	t-shirt	4.0	12.0
+44434292	23:22	raincoat returns	3.0	-1.0
+13508593	23:22	t-shirt	2.0	12.0
+10642394	23:28	raincoat returns	4.0	-1.0
+26082067	23:31	ice tea	3.0	2.5

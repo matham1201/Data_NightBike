@@ -1,0 +1,10 @@
+transaction_id	time	product	quantity	unit_price
+26575601	18:10	raincoat	5.0	1.0
+12325321	18:26	energy bar	1.0	2.2
+12325321	18:26	raincoat	5.0	1.0
+67711034	18:27	raincoat	2.0	1.0
+26575601	22:55	small water	2.0	1.0
+12325321	22:55	small water	1.0	1.0
+12325321	22:55	ice tea	1.0	2.5
+12325321	22:55	key chain	3.0	0.8
+12325321	22:55	t-shirt	2.0	12.0

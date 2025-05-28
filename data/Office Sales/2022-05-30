@@ -1,0 +1,56 @@
+transaction_id	time	product	quantity	unit_price
+69346440	18:00	small water	2.0	1.0
+69346440	18:00	large water	3.0	2.0
+69346440	18:00	chips	3.0	1.5
+69346440	18:00	energy bar	1.0	2.2
+30321381	18:02	small water	3.0	1.0
+68413503	18:04	large water	1.0	2.0
+43072264	18:05	small water	1.0	1.0
+43072264	18:05	large water	2.0	2.0
+43072264	18:05	ice tea	1.0	2.5
+43072264	18:05	chips	5.0	1.5
+13967814	18:07	large water	2.0	2.0
+15503343	18:08	large water	2.0	2.0
+65980390	18:10	small water	4.0	1.0
+11798494	18:16	small water	2.0	1.0
+21103120	18:16	small water	2.0	1.0
+11798494	18:16	large water	2.0	2.0
+21103120	18:16	large water	2.0	2.0
+21103120	18:16	chips	4.0	1.5
+45206584	18:18	small water	2.0	1.0
+45206584	18:18	large water	1.0	2.0
+38886941	18:19	large water	1.0	2.0
+27927388	18:19	ice tea	1.0	2.5
+89467349	18:20	small water	2.0	1.0
+92880513	18:21	small water	3.0	1.0
+62076067	18:24	small water	1.0	1.0
+62076067	18:24	large water	1.0	2.0
+62076067	18:24	key chain	3.0	0.8
+62076067	18:24	t-shirt	3.0	12.0
+94766035	18:25	small water	3.0	1.0
+94766035	18:25	t-shirt	3.0	12.0
+41439822	18:26	small water	3.0	1.0
+41439822	18:26	large water	1.0	2.0
+41439822	18:26	chips	4.0	1.5
+50905242	18:27	large water	1.0	2.0
+95069732	18:27	large water	1.0	2.0
+88226683	18:29	large water	1.0	2.0
+82406129	18:30	small water	1.0	1.0
+82406129	18:30	ice tea	1.0	2.5
+81693794	18:32	small water	4.0	1.0
+73736137	18:32	small water	2.0	1.0
+73736137	18:32	large water	1.0	2.0
+11985390	18:35	small water	3.0	1.0
+11985390	18:35	chips	3.0	1.5
+11985390	18:35	energy bar	3.0	2.2
+33793299	18:36	small water	2.0	1.0
+40734327	18:39	small water	3.0	1.0
+40734327	18:39	large water	2.0	2.0
+73736137	23:10	small water	2.0	1.0
+92880513	23:20	t-shirt	3.0	12.0
+21103120	23:25	key chain	8.0	0.8
+21103120	23:25	t-shirt	2.0	12.0
+11985390	23:26	large water	2.0	2.0
+11985390	23:26	t-shirt	1.0	12.0
+68413503	23:29	t-shirt	2.0	12.0
+82406129	23:36	large water	1.0	2.0
